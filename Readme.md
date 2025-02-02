@@ -6,4 +6,4 @@ creating an animated website;In this in-depth.
 
 # Tech:-
 
-Html,CSS, CdnJS,JavaScript,Cdn js.
+Html,CSS, CDN Js,JavaScript.
