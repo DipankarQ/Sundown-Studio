@@ -5,4 +5,4 @@ creating an animated website;In this in-depth.
  covering essential concepts and techniques to bring your websites to life.
 # Tech:-
 
-Html,CSS, CDN Js,JavaScript..
+Html,CSS, CDN Js,JavaScript
